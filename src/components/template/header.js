@@ -1,11 +1,11 @@
-import React, {useEffect} from 'react'
+import React, { useEffect } from 'react'
 import { Navbar, Nav } from 'react-bootstrap';
 import { NavLink } from 'react-router-dom'
-import {HashLink} from 'react-router-hash-link';
+import { HashLink } from 'react-router-hash-link';
 
 const Header = () => {
 
-    
+
 
 
     return (
@@ -27,7 +27,7 @@ const Header = () => {
                                     <HashLink smooth to="#projects" exact className="nav-link">Project</HashLink>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="https://docs.google.com/document/d/1_0vHiZ4NKtUl9EidVgvGDhBu3ncLz8v0y2jxTAluyDM/edit?usp=sharing" className="nav-link" target="_blank" >Resume</a>
+                                    <a href="https://drive.google.com/file/d/1H7D0P93O2niKlUS91VeYQdtO_G733pmF/view" className="nav-link" target="_blank" >Resume</a>
                                 </li>
                             </ul>
 
