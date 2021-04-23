@@ -27,7 +27,7 @@ const Header = () => {
                                     <HashLink smooth to="#projects" exact className="nav-link">Project</HashLink>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="https://drive.google.com/file/d/1H7D0P93O2niKlUS91VeYQdtO_G733pmF/view" className="nav-link" target="_blank" >Resume</a>
+                                    <a href="https://drive.google.com/file/d/1m0RxWeKyhkiLSmg7d72k5mOXbGZcE1Uz/view" className="nav-link" target="_blank" >Resume</a>
                                 </li>
                             </ul>
 

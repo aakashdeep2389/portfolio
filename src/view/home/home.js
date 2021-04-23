@@ -33,16 +33,16 @@ const Home = () => {
                         <div className="banner-caption">
                             <div class="flex">
                                 <div class="text">
-                                    Hello, I'm <span class="highlight" data-period="2000" data-rotate={["web development", "problem solving", "coding", "to learn new technology"]} >AD</span>.
+                                    Hello, I'm <span class="highlight" data-period="2000" data-rotate={["web development", "problem solving", "coding", "to learn new technology"]} >Aakash Deep</span>.
                                     <br />
-                                    I'm a Front-end developer.
+                                    I'm a UI frontend developer.
                                     <br />
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div className="resumewrapper">
-                        <Header/>
+                        <Header />
                         <HomeContent />
                         <Footer />
                     </div>
