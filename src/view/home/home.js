@@ -35,7 +35,7 @@ const Home = () => {
                                 <div class="text">
                                     Hello, I'm <span class="highlight" data-period="2000" data-rotate={["web development", "problem solving", "coding", "to learn new technology"]} >Aakash Deep</span>.
                                     <br />
-                                    I'm a UI frontend developer.
+                                    I'm a Software Engineer.
                                     <br />
                                 </div>
                             </div>
